@@ -11,4 +11,5 @@ This Java program is a simple weather application that fetches and displays real
 
 
 **OUTPUT**:
+![Image](https://github.com/user-attachments/assets/81f222cb-bc87-4ceb-ba4b-dbae07e32dd4)
 
